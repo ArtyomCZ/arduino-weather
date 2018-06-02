@@ -5,7 +5,7 @@ Easy arduino weather station based on DHT11 sensor
 Temperature, humidity, serial monitor output
 
 # Translate
-English - <a href="https://github.com/ArtyomCZ/arduino-weather/blob/master/weather.ino">weather.ino</a>
+English - <a href="https://github.com/ArtyomCZ/arduino-weather/blob/master/weather.ino">weather.ino</a></br>
 Czech - <a href="https://github.com/ArtyomCZ/arduino-weather/blob/master/weather-cs.ino">Weather-cs.ino</a>
 
 # Requirements
