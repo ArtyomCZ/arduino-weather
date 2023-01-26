@@ -13,7 +13,7 @@ void setup() {
   lcd.blink();
   dht.begin();
   Serial.begin(9600);
-  Serial.println("Communication started");
+  Serial.println("Communication established");
   delay(2000);
   lcd.clear();
 }
